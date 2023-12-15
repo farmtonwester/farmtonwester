@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farmtonwester, more commonly known by my unjumbled alias/real name, Weston Farmer!
 - 👀 I’m interested in music, sports, mathematics, rollercoasters, video games, and chess.
-- 🌱 I'm currently learning to program in Python and building out a foundation knowledge of computer science and programming tools. I am always happy to learn and grow with others!
+- 🌱 I began my coding journey by learning to program in Python, but I am now enrolled in a Flatiron Cohort and building out a foundational knowledge of JavaScript, HTML, and CSS. I am always happy to learn and grow with others!
 - 📫 I can be reached via email at wesfarmer11@gmail.com or on Twitter @farmtonwester
 
 <!---
